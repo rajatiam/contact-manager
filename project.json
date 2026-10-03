@@ -1,0 +1,8 @@
+{
+  "number": 10,
+  "name": "Contact manager",
+  "slug": "contact-manager",
+  "level": "Beginner",
+  "description": "Build CRUD screens, form validation, and basic user login.",
+  "status": "planning"
+}
